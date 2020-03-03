@@ -1,0 +1,95 @@
+/**************** STYLE ****************** */
+
+.Freelance {
+	color: white;
+	background-color: 7c4dff;
+	text-transform: uppercase;
+	height: 50px;
+
+}
+
+.social {
+	font-size:30px;
+	text-align: center;
+}
+
+.imgjoel {
+	width: 350px;
+	height: 500px;
+
+}
+
+.Menu {
+
+	color: black;
+	background-color: white;
+	text-transform: uppercase;
+	height: 80px;
+	box-shadow: 0 2px 4px 0 rgba(0, 0, 0, .05);
+
+
+}
+
+.nav-link {
+	color: black;
+
+}
+
+.navbar-toggler-icon {
+	color: black;
+}
+
+.navbar-collapse {
+	color: black;
+	background-color: white;
+}
+
+
+.Cuerpo {
+	background-color: f5f5f5;
+
+}
+
+.Presentacion {
+
+	margin-top: 120px;
+	margin-bottom: 40px;
+}
+
+.Call {
+	color: white;
+	background-color: 232323;
+	text-transform: uppercase;
+	height: 200px;
+
+}
+
+.Copyright {
+	color: white;
+	background-color: 1c1c1c;
+	height: 50px;
+}
+
+.ts1 {
+	background-color: aqua;
+}
+
+.ts2 {
+	background-color: chartreuse;
+}
+
+.pkmn {
+	text-align: center;
+}
+
+.MargenXS {
+	margin-top: 10px;
+}
+
+.MargenSM {
+	margin-top: 17px;
+}
+
+.MargenMD {
+	margin-top: 25px;
+}
